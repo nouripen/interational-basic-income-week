@@ -7,11 +7,13 @@
 
 ## Want one?
 
-### English
+### English (basic)
 
 - [Basic English, instructions for Twitter](https://raw.githubusercontent.com/nouripen/interational-basic-income-week/master/count-on-basic-income/exports/instructions-twitter-EN_basic%20(640x400).jpg) (640x400)
 - [Basic English, instructions for Twitter](https://raw.githubusercontent.com/nouripen/interational-basic-income-week/master/count-on-basic-income/exports/instructions-twitter-EN_basic%20(800x500).jpg) (800x500)
 - [Basic English, instructions for Twitter](https://raw.githubusercontent.com/nouripen/interational-basic-income-week/master/count-on-basic-income/exports/instructions-twitter-EN_basic%20(1440x900).jpg) (1440x900)
+
+### English (slang)
 
 - [Slang English, instructions for Twitter](https://raw.githubusercontent.com/nouripen/interational-basic-income-week/master/count-on-basic-income/exports/instructions-twitter-EN_slang%20(640x400).jpg) (640x400)
 - [Slang English, instructions for Twitter](https://raw.githubusercontent.com/nouripen/interational-basic-income-week/master/count-on-basic-income/exports/instructions-twitter-EN_slang%20(800x500).jpg) (800x500)

@@ -28,7 +28,7 @@ Just tell me what the text should say.
 
 ## For graphic designers:
 
-You can download and customize everything! Right click & "Save as...":
+You can download and customize everything! **Right click & "Save as..."**:
 - [EPS (Instructions for basic English, Twitter)](https://raw.githubusercontent.com/nouripen/interational-basic-income-week/master/count-on-basic-income/instructions-twitter-EN_basic.eps)
 - [EPS (Instructions for slang English, Twitter)](https://raw.githubusercontent.com/nouripen/interational-basic-income-week/master/count-on-basic-income/instructions-twitter-EN_slang.eps)
 

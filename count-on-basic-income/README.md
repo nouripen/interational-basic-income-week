@@ -11,7 +11,7 @@ More info at:
 https://basicincomeweek.org/ubi/show-your-support-for-universal-basic-income-the-18th-of-september-2018-countonbasicincome/
 
 
-## Want one?
+## Want pictures?
 
 ### English (basic)
 

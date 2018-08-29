@@ -5,6 +5,12 @@
 ![Example #countonbasicincome instructions for twitter](https://raw.githubusercontent.com/nouripen/interational-basic-income-week/master/count-on-basic-income/exports/instructions-twitter-EN_basic%20(640x400).jpg)
 
 
+## What's this about?
+
+More info at:
+https://basicincomeweek.org/ubi/show-your-support-for-universal-basic-income-the-18th-of-september-2018-countonbasicincome/
+
+
 ## Want one?
 
 ### English (basic)

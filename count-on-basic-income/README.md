@@ -23,9 +23,7 @@
 ## Want pics customized for your language?
 
 Email me at nouri.pennywhistle@gmail.com and I'll make a custom image for you ASAP!
-Just tell me:
-- what the text should say
-- the name of the language
+Just tell me what the text should say.
 
 
 ## For graphic designers:

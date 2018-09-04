@@ -18,7 +18,7 @@ https://basicincomeweek.org/ubi/show-your-support-for-universal-basic-income-the
 - [English 640x400, 60% quality](https://github.com/nouripen/interational-basic-income-week/raw/master/count-on-basic-income/exports/instructions-EN%20(640x400%2C%2060%25%20quality).jpg) (low quality but small)
 - [English 640x400, 90% quality](https://github.com/nouripen/interational-basic-income-week/raw/master/count-on-basic-income/exports/instructions-EN%20(640x400%2C%2090%25%20quality).jpg) (good quality but a bit bigger)
 - [English 800x500, 90% quality](https://github.com/nouripen/interational-basic-income-week/raw/master/count-on-basic-income/exports/instructions-EN%20(800x500%2C%2090%25%20quality).jpg)
-- [English 1440x900, 100% quality](https://github.com/nouripen/interational-basic-income-week/raw/master/count-on-basic-income/exports/instructions-EN%20(800x500%2C%2090%25%20quality).jpg) (good for posters or something)
+- [English 1440x900, 100% quality](https://github.com/nouripen/interational-basic-income-week/raw/master/count-on-basic-income/exports/instructions-EN%20(1440x900%2C%20100%25%20quality).jpg) (good for posters or something)
 
 
 ## Want pics customized for your language?
